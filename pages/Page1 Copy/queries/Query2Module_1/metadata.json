@@ -1,0 +1,24 @@
+{
+  "moduleInstanceId": "Page1_Query2Module_1",
+  "isPublic": true,
+  "rootModuleInstanceId": "Page1_Query2Module_1",
+  "pluginType": "DB",
+  "pluginId": "postgres-plugin",
+  "unpublishedAction": {
+    "name": "_$Query2Module_1$_Query2Module",
+    "pageId": "Page1 Copy",
+    "contextType": "PAGE",
+    "executeOnLoad": false,
+    "isValid": true,
+    "invalids": [],
+    "messages": [],
+    "userSetOnLoad": false,
+    "confirmBeforeExecute": false,
+    "policies": [],
+    "userPermissions": [],
+    "createdAt": "2024-02-16T08:46:47Z"
+  },
+  "id": "Page1 Copy__$Query2Module_1$_Query2Module",
+  "deleted": false,
+  "gitSyncId": "65cf22f24101c414d4bfc327_65cf285a4101c414d4bfc371"
+}
